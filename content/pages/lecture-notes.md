@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the lecture notes for the topics covered in the
+  course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -30,7 +32,7 @@ LECTURERS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Organic Geochemistry Methods I ([PDF]({{< baseurl >}}/resources/lecture_01))
+Organic Geochemistry Methods I ({{% resource_link 36972660-9382-3940-9212-f3d15197a571 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 TIE
@@ -42,7 +44,7 @@ TIE
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Organic Geochemistry Methods II ([PDF - 1.4 MB]({{< baseurl >}}/resources/lecture_02))
+Organic Geochemistry Methods II ({{% resource_link bc74c340-604c-8268-f3e3-78e3d717ac84 "PDF - 1.4 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 TIE
@@ -54,7 +56,7 @@ TIE
 3
 {{< tdclose >}}
 {{< tdopen >}}
-DOC, DON, DOP Cycling and Composition ([PDF - 2.7 MB]({{< baseurl >}}/resources/lecture_03))
+DOC, DON, DOP Cycling and Composition ({{% resource_link a0a3e46b-47db-4242-3843-3e805d7113f2 "PDF - 2.7 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 DJR
@@ -66,7 +68,7 @@ DJR
 4
 {{< tdclose >}}
 {{< tdopen >}}
-DOC, DON, DOP Cycling and Composition (cont.) ([PDF - 1.5 MB]({{< baseurl >}}/resources/lecture_04))
+DOC, DON, DOP Cycling and Composition (cont.) ({{% resource_link e97faaca-d6c2-6132-c909-8a04c4b92e06 "PDF - 1.5 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 DJR
@@ -78,7 +80,7 @@ DJR
 5
 {{< tdclose >}}
 {{< tdopen >}}
-DOC, DON, DOP Cycling and Composition (cont.) ([PDF - 1.2 MB]({{< baseurl >}}/resources/lecture_05))
+DOC, DON, DOP Cycling and Composition (cont.) ({{% resource_link da45eb63-e91f-1593-0b4b-9ce05813cfcb "PDF - 1.2 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 DJR
@@ -90,7 +92,7 @@ DJR
 6
 {{< tdclose >}}
 {{< tdopen >}}
-DOC, DON, DOP Cycling and Composition (cont.) ([PDF]({{< baseurl >}}/resources/lecture_06))
+DOC, DON, DOP Cycling and Composition (cont.) ({{% resource_link 75323230-0435-6af9-1155-04142f2036de "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 DJR
@@ -126,7 +128,7 @@ TIE
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Carbon Preservation ([PDF - 2.0 MB]({{< baseurl >}}/resources/lecture_09))
+Carbon Preservation ({{% resource_link 12f11299-09b9-5deb-0ca9-793a4ecd2c14 "PDF - 2.0 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 DJR
@@ -138,7 +140,7 @@ DJR
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Carbon Preservation II ([PDF - 1.0 MB]({{< baseurl >}}/resources/lecture_10))
+Carbon Preservation II ({{% resource_link 385ae437-39bb-7601-1435-3e45efdd420d "PDF - 1.0 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 DJR
@@ -222,7 +224,7 @@ TIE
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Radiocarbon in Organic Materials ([PDF - 1.1 MB]({{< baseurl >}}/resources/lecture_17))
+Radiocarbon in Organic Materials ({{% resource_link 692a89f9-c847-583e-62e8-458d6719ed52 "PDF - 1.1 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 TIE
@@ -234,7 +236,7 @@ TIE
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Biogeochemical Cycling in Anoxic Marine Sediments I ([PDF - 2.3 MB]({{< baseurl >}}/resources/lecture_18))
+Biogeochemical Cycling in Anoxic Marine Sediments I ({{% resource_link c2ba3f03-c730-ca6b-e1c5-88211bb0f733 "PDF - 2.3 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 DJR
@@ -246,7 +248,7 @@ DJR
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Biogeochemical Cycling in Anoxic Marine Sediments II ([PDF - 1.3 MB]({{< baseurl >}}/resources/lecture_19))
+Biogeochemical Cycling in Anoxic Marine Sediments II ({{% resource_link 86683db7-2ccb-2d40-2985-b142bb30c8e8 "PDF - 1.3 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 DJR
@@ -306,7 +308,7 @@ TIE
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Course Review ([PDF]({{< baseurl >}}/resources/lecture_24))
+Course Review ({{% resource_link 2e1aad56-6760-9589-b6a3-6fe5628b2a40 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 TIE/DJR
