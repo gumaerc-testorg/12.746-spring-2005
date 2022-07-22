@@ -6,6 +6,7 @@ file: /courses/12-746-marine-organic-geochemistry-spring-2005/2e1aad5667609589b6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_24.pdf
 uid: 2e1aad56-6760-9589-b6a3-6fe5628b2a40
 ---
 This resource contains information on topics organic geochemistry, carbon isotopes, organic phosphorus, chromatography and alkenone paleothermometry.
-
