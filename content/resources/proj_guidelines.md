@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains guidelines for student research proposals such
   as abstract, introduction, Hypotheses, background and proposed reseach.
 file: /courses/12-746-marine-organic-geochemistry-spring-2005/1e050163933b2a956acba69d2f9085eb_proj_guidelines.pdf
+file_size: 83429
 file_type: application/pdf
 learning_resource_types:
 - Projects
