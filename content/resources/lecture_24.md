@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on topics organic geochemistry, carbon
   isotopes, organic phosphorus, chromatography and alkenone paleothermometry.
 file: /courses/12-746-marine-organic-geochemistry-spring-2005/2e1aad5667609589b6a36fe5628b2a40_lecture_24.pdf
+file_size: 154720
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

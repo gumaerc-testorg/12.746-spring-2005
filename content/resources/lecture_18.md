@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/12-746-marine-organic-geochemistry-spring-2005/c2ba3f03c730ca6be1c588211bb0f733_lecture_18.pdf
+file_size: 2395751
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

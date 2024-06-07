@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/12-746-marine-organic-geochemistry-spring-2005/36972660938239409212f3d15197a571_lecture_01.pdf
+file_size: 905823
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
