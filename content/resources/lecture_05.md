@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/12-746-marine-organic-geochemistry-spring-2005/da45eb63e91f15930b4b9ce05813cfcb_lecture_05.pdf
+file: /courses/12-746-marine-organic-geochemistry-spring-2005/da45eb63e91f15930b4b9ce05813cfcb_lecture_05.pdf
 file_size: 1175000
 file_type: application/pdf
 learning_resource_types:
