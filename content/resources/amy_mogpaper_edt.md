@@ -3,7 +3,7 @@ content_type: resource
 description: This file is a resource which contains information on The Cambrian explosion,
   Biomarkers, Value of biomarkers, Paleogeographic relationship, World Correlation
   and references on the same.
-file: /ol-ocw-studio-app/courses/12-746-marine-organic-geochemistry-spring-2005/1764aa1bb77ed3d00b73b50f2d48ddfd_amy_mogpaper_edt.pdf
+file: /courses/12-746-marine-organic-geochemistry-spring-2005/1764aa1bb77ed3d00b73b50f2d48ddfd_amy_mogpaper_edt.pdf
 file_size: 241864
 file_type: application/pdf
 learning_resource_types:
